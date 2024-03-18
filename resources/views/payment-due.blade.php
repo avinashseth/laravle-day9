@@ -1,0 +1,1 @@
+Hey {{ $name }} , your payment of {{ $amount }} is due. Please make the payment as soon as possible. Thank you.

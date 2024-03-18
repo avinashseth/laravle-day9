@@ -1,0 +1,19 @@
+{
+    "name": "avinash/seth",
+    "description": "Package to say Hi",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Avinash Seth",
+            "email": "bloggerbeg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Avinash\\Seth\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
